@@ -125,7 +125,7 @@ ETS 预测显示，到 2027 年月度旅客量最高值可能突破 700 万，�
 
 1. 克隆仓库并安装依赖：
    ```bash
-   git clone https://github.com/w15034923897-cyber/changi-airport-tourism-recovery.git
+   git clone https://github.com/wang-rann/changi-airport-tourism-recovery.git
    cd changi-airport-tourism-recovery
    pip install -r requirements.txt
    ```
